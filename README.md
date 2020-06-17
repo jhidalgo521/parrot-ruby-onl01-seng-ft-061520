@@ -1,3 +1,4 @@
+pwd
 # Parrot
 
 ## Objectives
